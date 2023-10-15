@@ -1,2 +1,2 @@
 # Regression-Estimation
-Artificial Intelligence course- Car Price Prediction Model with an Ensemble and a Supervised Learning.
+Introduction to Artificial Intelligence; numpy, matplotlib, pandas, google colab
