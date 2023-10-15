@@ -1,2 +1,2 @@
 # Regression-Estimation
-Introduction to Artificial Intelligence; numpy, matplotlib, pandas, google colab
+Introduction to Machine Learning libraries; numpy, matplotlib, pandas, google colab, jupyter notebook.
