@@ -1,1 +1,1 @@
-Introduction to Regression Estimation Machine Learning libraries; numpy, matplotlib, pandas, google colab, jupyter notebook.
+Introduction to Regression Estimation and Machine Learning libraries; numpy, matplotlib, pandas, google colab, jupyter notebook.
